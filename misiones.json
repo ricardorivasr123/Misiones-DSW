@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "El despertar del héroe",
+    "Dificultad": "Fácil",
+    "RecompensaXP": 200,
+    "Completada": true
+  },
+  {
+    "Id": 2,
+    "Nombre": "La cueva de las sombras",
+    "Dificultad": "Media",
+    "RecompensaXP": 500,
+    "Completada": false
+  },
+  {
+    "Id": 3,
+    "Nombre": "Derrotar al Dragón Ancestral",
+    "Dificultad": "Difícil",
+    "RecompensaXP": 2000,
+    "Completada": false
+  }
+]

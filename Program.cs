@@ -28,3 +28,8 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+//OMR
+//dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+//dotnet add package Microsoft.EntityFrameworkCore.Design
+//dotnet tool install --global dotnet-ef --version 10.0.*
